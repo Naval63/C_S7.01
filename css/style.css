@@ -39,3 +39,5 @@
 .pink {
     background-color: pink;
 }
+
+@media all and (max-width: 900px) and (orientation: landscape) {}
